@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e51be1f-e00a-44d4-817b-f5d87db890df" name="Default Changelist" comment="" />
+    <list default="true" id="8e51be1f-e00a-44d4-817b-f5d87db890df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoffeeChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/addons/AddOn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/addons/Large.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/addons/Soy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/annotations/Alterable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/beans/Beverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/beans/Cappuccino.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/beans/Espresso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/beans/FlatWhite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/beans/Latte.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/shop/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/shop/OrderSansVoucher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/shop/OrderWithBuy2Get1FreeVoucher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/shop/OrderWithDiscountVoucher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/vouchers/Buy2Get1Free.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/vouchers/TenPercentDiscount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/au/com/whitney/bresic/coffee/vouchers/Voucher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/au/com/whitney/bresic/coffee/shop/OrderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/au/com/whitney/bresic/coffee/shop/OrderWithBuy2Get1FreeVoucherTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/au/com/whitney/bresic/coffee/shop/OrderWithDiscountVoucherTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,6 +48,7 @@
         <counts>
           <entry key="class" value="6" />
           <entry key="java" value="85" />
+          <entry key="md" value="1" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -29,6 +56,7 @@
         <counts>
           <entry key="CLASS" value="6" />
           <entry key="JAVA" value="85" />
+          <entry key="Markdown" value="1" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -36,12 +64,14 @@
         <counts>
           <entry key="dummy" value="44" />
           <entry key="java" value="4521" />
+          <entry key="md" value="1443" />
           <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4521" />
+          <entry key="JAVA" value="4527" />
+          <entry key="Markdown" value="1437" />
           <entry key="PLAIN_TEXT" value="44" />
           <entry key="XML" value="6" />
         </counts>
@@ -54,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/au/com/whitney/bresic/coffee/beans/Beverage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -68,11 +98,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/au/com/whitney/bresic/coffee/beans/Espresso.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="458">
+                <caret line="106" column="44" selection-start-line="106" selection-start-column="44" selection-end-line="106" selection-end-column="44" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -91,18 +133,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/au/com/whitney/bresic/coffee/shop/OrderWithBuy2Get1FreeVoucherTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="69" column="5" lean-forward="true" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -166,6 +196,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -209,6 +242,7 @@
         <option value="$PROJECT_DIR$/src/main/java/au/com/whitney/bresic/coffee/addons/Large.java" />
         <option value="$PROJECT_DIR$/src/main/java/au/com/whitney/bresic/coffee/addons/Soy.java" />
         <option value="$PROJECT_DIR$/src/main/java/au/com/whitney/bresic/coffee/beans/Espresso.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -338,7 +372,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544238528375" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544247570739" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -467,7 +501,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544177622563</updated>
-      <workItem from="1544177624206" duration="22600000" />
+      <workItem from="1544177624206" duration="24615000" />
     </task>
     <servers />
   </component>
@@ -504,7 +538,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22600000" />
+    <option name="totallyTimeSpent" value="24615000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="944" extended-state="6" />
@@ -711,7 +745,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/au/com/whitney/bresic/coffee/shop/OrderWithBuy2Get1FreeVoucherTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
-          <caret line="69" column="5" lean-forward="true" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -741,7 +775,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/au/com/whitney/bresic/coffee/beans/Beverage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -789,7 +823,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/au/com/whitney/bresic/coffee/beans/Espresso.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="458">
+            <caret line="106" column="44" selection-start-line="106" selection-start-column="44" selection-end-line="106" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
